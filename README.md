@@ -1,1 +1,5 @@
-# heart_disease_analysis
+# Heart Disease Analysis
+
+# summary + imgs (results)
+
+# instruction on how to run it
