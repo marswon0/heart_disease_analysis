@@ -7,7 +7,7 @@ learning has been proved to be effective in assisting decision making as well as
 
 ## Data Visualization
 
-This section provides some vidualizations for the training samples. The proposed models are validated through the combined [UCI Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/heart+disease) (Cleveland, Hungary, Switzerland, and the VA Long Beach). The combined dataset has 1025 samples, each sample has 13 features.
+This section provides some visualizations for the training samples. The proposed models are validated through the combined [UCI Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/heart+disease) (Cleveland, Hungary, Switzerland, and the VA Long Beach). The combined dataset has 1025 samples, each sample has 13 features.
 
 <img src="/Assets/Images/visualization.JPG">
 
