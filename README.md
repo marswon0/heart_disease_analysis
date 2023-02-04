@@ -64,3 +64,7 @@ AdaBoost uses stump as the base estimator. The performance of AdaBoost is direct
 
 - To install the required packages, run ```pip install -r requirements.txt``` 
 - To run a specific model, execute the jupyter notebook accordingly 
+
+## Reference
+
+For more information about this project, please check out this [paper](https://github.com/marswon0/heart_disease_recognition/blob/4c5babe3b714034d97a0a31cad2e4c826a31ded2/Assets/Paper/Heart%20Disease%20Recognition.pdf)
