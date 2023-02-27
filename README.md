@@ -5,6 +5,12 @@
 Heart disease can be hard to detect in the preliminary stages since the multiple health indicators must be considered. Machine 
 learning has been proved to be effective in assisting decision making as well as classification. This project uses different machine learning and deep learning techniques to predict heart disease. Models used in this project include Support Vector Machine(SVM), Multilayer Perceptron(MLP), and Ensemble Learning methods. 
 
+Different machine learning and deep learning algorithms are presented to solve the UCI heart disease dataset. The RF, linear kernel SVM, and RBF kernel SVM have the best performance among the proposed models. These methods reach 100% validation accuracy while having a relatively low computation complexity.
+
+## Reference
+
+For references and the models training processes, please check out the [report paper written for this project](https://github.com/marswon0/heart_disease_recognition/blob/4c5babe3b714034d97a0a31cad2e4c826a31ded2/Assets/Paper/Heart%20Disease%20Recognition.pdf).
+
 ## Data Visualization
 
 This section provides some visualizations for the training samples. The proposed models are validated through the combined [UCI Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/heart+disease) (Cleveland, Hungary, Switzerland, and the VA Long Beach). The combined dataset has 1025 samples, each sample has 13 features.
@@ -64,7 +70,3 @@ AdaBoost uses stump as the base estimator. The performance of AdaBoost is direct
 
 - To install the required packages, run ```pip install -r requirements.txt``` 
 - To run a specific model, execute the jupyter notebook accordingly 
-
-## Reference
-
-For more information about this project, please check out this [report paper](https://github.com/marswon0/heart_disease_recognition/blob/4c5babe3b714034d97a0a31cad2e4c826a31ded2/Assets/Paper/Heart%20Disease%20Recognition.pdf).
