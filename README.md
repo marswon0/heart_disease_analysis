@@ -5,7 +5,7 @@
 Heart disease can be hard to detect in the preliminary stages since the multiple health indicators must be considered. Machine 
 learning has been proved to be effective in assisting decision making as well as classification. This project uses different machine learning and deep learning techniques to predict heart disease. Models used in this project include Support Vector Machine(SVM), Multilayer Perceptron(MLP), and Ensemble Learning methods. 
 
-Different machine learning and deep learning algorithms are presented to solve the UCI heart disease dataset. The RF, linear kernel SVM, and RBF kernel SVM have the best performance among the proposed models. These methods reach 100% validation accuracy while having a relatively low computation complexity.
+Different machine learning and deep learning algorithms are presented to solve the UCI heart disease dataset. The RF, linear kernel SVM, and RBF kernel SVM have the best performance among the proposed models. These methods reach 100% test accuracy while having a relatively low computation complexity.
 
 ## Reference
 
